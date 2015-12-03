@@ -1,11 +1,14 @@
 # UIImageToVideo
 This is a single class file that make it posible to create videos from UIImages written in Swift 2.
 
-The base code comes from (Thank):
-  https://github.com/justinlevi/imagesToVideo/tree/master
+The base code comes from (Thanks):
+````
+ https://github.com/justinlevi/imagesToVideo/tree/master
+```
 and
-  http://stackoverflow.com/questions/7645454
-
+``` 
+http://stackoverflow.com/questions/7645454
+```
 Uses:
 ```
 			let video = VideoFromImages(
