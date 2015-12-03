@@ -7,6 +7,7 @@ and
   http://stackoverflow.com/questions/7645454
 
 Uses:
+```
 			let video = VideoFromImages(
 				filename: "GravityGame.mov",
 				size: CGSizeMake(320, 568),
@@ -24,3 +25,4 @@ Uses:
 			//(You can also do this in a runnong animation, but it will make the animation slack)
 			video.addImage(<UIImage>)
 			video.finish()
+```
